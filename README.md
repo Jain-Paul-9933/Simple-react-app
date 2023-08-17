@@ -1,1 +1,1 @@
-# Simple-reqct-app
+# Simple-react-app
